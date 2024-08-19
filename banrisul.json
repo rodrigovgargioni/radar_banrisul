@@ -141,14 +141,14 @@
     },
     {
       "name":"Microsoft 365",
-            "ring":"Trial",
+            "ring":"Adopt",
             "quadrant":"Tools",
             "isNew":"TRUE",
             "description":"O Microsoft 365 é um conjunto/família de softwares de produtividade e serviços baseados em nuvem desenvolvido pela empresa norte-americana Microsoft, focado no trabalho colaborativo simultâneo a equipes de diversos tamanhos, e na segurança, lançado em junho de 2011."
     },
     {
       "name":"Google Workspace",
-            "ring":"Trial",
+            "ring":"Hold",
             "quadrant":"Tools",
             "isNew":"TRUE",
             "description":"Google Workspace é um serviço do Google que oferece versões de vários produtos Google que podem ser personalizados de forma independente com o nome de domínio do cliente"
