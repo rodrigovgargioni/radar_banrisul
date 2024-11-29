@@ -1,0 +1,198 @@
+[
+    {
+      "name":"DevSecOps",
+            "ring":"1",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"DevSecOps é a prática de integrar a segurança no pipeline de integração contínua, entrega contínua e implementação contínua."
+    },
+    {
+      "name":"AIOps",
+            "ring":"1",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"Inteligência artificial para operações de TI é uma categoria do setor de aprendizado de máquina para tecnologia de análise de aprendizado de máquina que aprimora a análise de operações de TI. AIOps é a sigla de operações de Inteligência artificial."
+    },
+    {
+      "name":"Sandbox",
+            "ring":"2",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"Em segurança computacional, o sandbox é um mecanismo/ferramenta de segurança que separa programas em execução, em um esforço para mitigar falhas do sistema e/ou vulnerabilidades de software de se espalhar"
+    },
+    {
+      "name":"API First",
+            "ring":"3",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"A API First é uma abordagem que visa o desenvolvimento de soluções voltadas para essa integração entre ferramentas ao priorizar o trabalho com as APIs dentro de um processo de criação de um produto tecnológico."
+    },
+    {
+      "name":"Banking as a Service (BaaS)",
+            "ring":"3",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"Banking as a service ou Bank as a Service, também conhecido pela sigla BaaS, é o fornecimento de produtos bancários a terceiros não bancários por meio de APIs"
+    },
+    {
+      "name":"FinOps",
+            "ring":"3",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"FinOps é uma disciplina de gestão financeira do uso de recursos digitais, que combina práticas culturais e operacionais. Seu principal objetivo é maximizar o valor comercial gerado por tais serviços, permitindo que as empresas aumentem sua eficiência operacional e suas margem de lucro."
+    },
+    {
+      "name":"Integração gov.br",
+            "ring":"3",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"O gov.br reúne, em um só lugar, serviços para o cidadão e informações sobre a atuação de todas as áreas do governo."
+    },
+    {
+      "name":"Banking as a Platform (BaaP)",
+            "ring":"4",
+            "quadrant":"1",
+            "isNew":"TRUE",
+            "description":"A modalidade bank as a platform (BaaP) é uma plataforma que possibilita serviços financeiros digitais além dos tradicionais. Ela pode ser entendida como uma solução integrada que reúne tecnologia com informação, processos e a oferta de serviços com valor agregado."
+    },
+    {
+      "name":"Amazon Web Services",
+            "ring":"1",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon. Os serviços são oferecidos em várias áreas geográficas distribuídas pelo mundo."
+    },
+    {
+      "name":"Apache Kafka",
+            "ring":"2",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Apache Kafka é uma plataforma open-source de processamento de streams desenvolvida pela Apache Software Foundation, escrita em Scala e Java. O projeto tem como objetivo fornecer uma plataforma unificada, de alta capacidade e baixa latência para tratamento de dados em tempo real."
+    },
+    {
+      "name":"MongoDB",
+            "ring":"2",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas"
+    },
+    {
+      "name":"Redis",
+            "ring":"2",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Redis é um armazenamento de estrutura de dados em memória, usado como um banco de dados em memória distribuído de chave-valor, cache e agente de mensagens, com durabilidade opcional"
+    },
+    {
+      "name":"Azure Virtual Desktop",
+            "ring":"3",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"O Azure Virtual Desktop, anteriormente conhecido como Windows Virtual Desktop, é um sistema baseado no Microsoft Azure para virtualizar seus sistemas operacionais Windows, fornecendo desktops e aplicativos virtualizados com segurança na nuvem usando o Protocolo de Área de Trabalho Remota."
+    },
+    {
+      "name":"Azure Cloud",
+            "ring":"3",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Microsoft Azure, ou apenas Azure, é a plataforma de computação em nuvem executada pela Microsoft. Oferece gerenciamento, acesso e desenvolvimento de aplicações e serviços a indivíduos, empresas, e governos por meio de sua infraestrutura global"
+    },
+    {
+      "name":"Oracle Cloud",
+            "ring":"3",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Oracle Cloud é um serviço de computação em nuvem oferecido pela Oracle Corporation que fornece servidores, armazenamento, rede, aplicativos e serviços por meio de uma rede global de data centers gerenciados pela Oracle Corporation. A empresa permite que esses serviços sejam fornecidos sob demanda pela Internet"
+    },
+    {
+      "name":"Azure DevOps",
+            "ring":"3",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Azure DevOps Server, anteriormente conhecido como Team Foundation Server e Visual Studio Team System, é um produto da Microsoft que fornece controle de versão, relatórios, gerenciamento de requisitos, gerenciamento de projetos, compilações automatizadas, testes e recursos de gerenciamento de lançamento."
+    },
+    {
+      "name":"TraceGP",
+            "ring":"4",
+            "quadrant":"4",
+            "isNew":"TRUE",
+            "description":"Sistema de Governança e Projetos"
+    },
+    {
+      "name":"GitLab",
+            "ring":"1",
+            "quadrant":"2",
+            "isNew":"TRUE",
+            "description":"O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD"
+    },
+    {
+      "name":"Solidity",
+            "ring":"1",
+            "quadrant":"2",
+            "isNew":"TRUE",
+            "description":"Solidity é uma linguagem de programação para implementação de contratos inteligentes em várias plataformas blockchain, principalmente Ethereum. Solidity é licenciado sob GNU General Public License v3.0"
+    },
+    {
+      "name":"CodiumAI",
+            "ring":"2",
+            "quadrant":"2",
+            "isNew":"TRUE",
+            "description":"O Codium AI foca na geração de testes com IA. Ele funciona para todas as linguagens, mas possui suporte avançado para stacks comuns"
+    },
+    {
+      "name":"Microsoft 365",
+            "ring":"1",
+            "quadrant":"2",
+            "isNew":"TRUE",
+            "description":"O Microsoft 365 é um conjunto/família de softwares de produtividade e serviços baseados em nuvem desenvolvido pela empresa norte-americana Microsoft, focado no trabalho colaborativo simultâneo a equipes de diversos tamanhos, e na segurança, lançado em junho de 2011."
+    },
+    {
+      "name":"Google Workspace",
+            "ring":"4",
+            "quadrant":"2",
+            "isNew":"TRUE",
+            "description":"Google Workspace é um serviço do Google que oferece versões de vários produtos Google que podem ser personalizados de forma independente com o nome de domínio do cliente"
+    },
+    {
+      "name":"GitHub",
+            "ring":"3",
+            "quadrant":"2",
+            "isNew":"TRUE",
+            "description":"GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo"
+    },
+    {
+      "name":".NET 8",
+            "ring":"1",
+            "quadrant":"3",
+            "isNew":"TRUE",
+            "description":"O .NET 8 é o sucessor do .NET 7. Ele terá suporte por três anos como uma versão LTS (suporte de longo prazo)"
+    },
+    {
+      "name":"nodeJS",
+            "ring":"2",
+            "quadrant":"3",
+            "isNew":"TRUE",
+            "description":"Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos."
+    },
+    {
+      "name":"React Native",
+            "ring":"3",
+            "quadrant":"3",
+            "isNew":"TRUE",
+            "description":"React Native é um framework de código aberto criado pela Meta 4, Inc. É usado para desenvolver aplicativos para Android, Android TV, iOS, macOS, tvOS, Web, Windows, e UWP, permitindo que os desenvolvedores usem a estrutura React juntamente com os recursos nativos de cada plataforma"
+    },
+    {
+      "name":"Flutter",
+            "ring":"3",
+            "quadrant":"3",
+            "isNew":"TRUE",
+            "description":"Flutter é um kit de desenvolvimento de software de interface de usuário, de código aberto, criado pela empresa Google em 2015, baseado na linguagem de programação Dart, que possibilita a criação de aplicativos para Web e para os sistemas operacionais Android, iOS, Windows, macOS, Linux e Fuchsia"
+    },
+    {
+      "name":"PL/I",
+            "ring":"4",
+            "quadrant":"3",
+            "isNew":"TRUE",
+            "description":"PL/I significa Programming Language One e é uma linguagem de programação desenvolvida pela IBM em meados de 1960. A previsão da IBM era que a linguagem fosse utilizada em ciências, inteligência artificial e negócios"
+    }
+  ]
